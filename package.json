@@ -1,0 +1,21 @@
+{
+  "name": "mycrown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "fetch": "^1.1.0",
+    "node": "^20.2.0",
+    "node-fetch": "^2.6.11",
+    "openai": "^3.2.1"
+  }
+}
